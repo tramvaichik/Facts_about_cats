@@ -1,0 +1,25 @@
+        h1 {
+            text-align: center;
+            color: rgb(28, 151, 110);
+            font-style: italic;
+            font-weight: inherit;
+        }
+
+        .card-title {
+            color: rgb(141, 87, 6);
+            font-style: italic;
+        }
+
+        .card-text {
+            color: rgb(49, 2, 77);
+        }
+
+        a {
+            color: lightcoral;
+            font-weight: bold;
+        }
+
+        .select {
+            background-color: khaki;
+            border: 5px dotted rgb(238, 186, 152);
+        }
